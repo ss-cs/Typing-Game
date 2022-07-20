@@ -20,7 +20,7 @@ Note: Your timer will increase the time by 0.5 seconds for every wrong input as 
 
 <b>Step 3.</b> After successfully enter of 20 letters, the game will end, and "Succes" or "Failure" will display on your screen. If your time taken is less than your best score (mentioned at the bottom of your screen as "My Best Time"), "Success" will display otherwise, "failure" will display. In the case of "Success," your best will be updated in "My Best Time." You can see this best time in your next game. <br/>
 <br/>
-<b>Note:<b> For the First game, the current score will be your best score. <br/>
+<b>Note:<b> For the First game, the current score will be your best score. <br/><br/>
 <b>My Best Score - <b> 00:00:00 for the first Game. <br/>
  <b> Current Score - </b> 00:37:93 (This will be 'My Best Time') <br/>
  <b> Result - </b> "Success" <br/>
